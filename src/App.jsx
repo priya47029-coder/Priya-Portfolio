@@ -105,12 +105,7 @@ function App() {
           </div>
         </div>
 
-        <div className="photo-placeholder">
-  <img
-    src="/src/assets/profile.jpg"
-    alt="Priya P"
-  />
-</div>
+       
       </section>
 
       {/* About */}
@@ -216,12 +211,10 @@ function App() {
 
         <div className="experience-card">
           <h3>Android Development Intern</h3>
-          <h3>UI/UX Design Intern</h3>
 
           <p>
             Internship experience focused on Android application development.
           </p>
-          <p> Internship experience focused on developing many apps</p>
         </div>
       </section>
 
